@@ -19,7 +19,7 @@ Follow these steps to use the React skeleton:
 2. Save the following commands in a notepad file (or a bash script for Unix users). Be sure to replace `GITHUB_USERNAME` with your own GitHub username.
 
     ```bash
-    git clone git@github.com:GITHUB_USERNAME/Vite-React-Skeleton.git Client
+    git clone git@github.com:tesfatesfaye/Vite-React-Skelleton.git Client
     cd Client
     rm -rf .git # remove this line if you want to associate the project with the forked repo
     npm install
